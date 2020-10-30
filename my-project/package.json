@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niktayka/new-test.git"
+  },
+  "keywords": [
+    "Optimism1488"
+  ],
+  "author": "Nik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niktayka/new-test/issues"
+  },
+  "homepage": "https://github.com/Niktayka/new-test#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
